@@ -1,0 +1,8 @@
+# Ignora los archivos generados por el comando make
+*.ko
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+*.o
+*.modinfo
